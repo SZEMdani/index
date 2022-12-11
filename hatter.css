@@ -1,0 +1,38 @@
+body {
+    background-color: red;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  h2{
+   color: black;
+   text-align: center;  
+
+  }
+  h3{
+   color: aqua;
+   text-align: left;
+  }
+  h4{
+   color: brown;
+   text-align: right;
+  }
+  h5{
+   color: darkblue;
+   text-align: center;
+  }
+  h6{
+   color: chartreuse;
+   text-align: left;
+  }
+
+
+
+
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
